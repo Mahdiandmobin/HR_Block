@@ -1,1 +1,1 @@
-{"آپدیت":"A","لینک":"http://cafebazaar.ir/app/?id=HR.Block&ref=share"}
+{"آپدیت":"A","لینک":"http://cafebazaar.ir/app/?id\u003dHR.Block\u0026ref\u003dshare","پشتیبان":"https://www.goftino.com/c/iw0KHX"}
